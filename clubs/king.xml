@@ -402,4 +402,7 @@
       </g>
     </g>
   </defs>
+
+  <use href="#king"></use>
+
 </svg>
