@@ -1,11 +1,11 @@
 <svg xmlns='http://www.w3.org/2000/svg' version='2' height='2310' width='5100'>
-  <rect width='5100' height='2310' rx='30.32' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
+  <!-- Green background -->
+  <rect width='5100' height='2310' rx='30' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
 
-  <g transform='translate(30, 0)'>
-  <g id='spades'   transform='translate(0, -482.36218 )'><use href='/spades/all.xml#spades' /></g>
-  <g id='hearts'   transform='translate(0,   87.637818)'><use href='/hearts/all.xml#hearts' /></g>
-  <g id='diamonds' transform='translate(0,  657.63782 )'><use href='/diamonds/all.xml#diamonds' /></g>
-  <g id='clubs'    transform='translate(0, 1740       )'><use href='/clubs/all.xml#clubs' /></g>
-</g>
-
+  <g transform='translate(30, 30)'>
+    <g id='spades'   transform='translate(0, -512.36218 )'><use href='/spades/all.xml#spades' /></g>
+    <g id='hearts'   transform='translate(0,   57.637818)'><use href='/hearts/all.xml#hearts' /></g>
+    <g id='diamonds' transform='translate(0,  627.63782 )'><use href='/diamonds/all.xml#diamonds' /></g>
+    <g id='clubs'    transform='translate(0, 1710       )'><use href='/clubs/all.xml#clubs' /></g>
+  </g>
 </svg>

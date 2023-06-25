@@ -17,7 +17,7 @@
     </g>
   </defs>
 
-  <rect height='2310' width='5100' rx='30.32' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
+  <rect height='600' width='5100' rx='30.32' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
   <g transform='translate(30, -482.36218)'>
     <use href='#spades' />
   </g>
