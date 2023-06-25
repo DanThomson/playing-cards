@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="2">
+  <defs>
+      <g id="background">
+      <g style="fill:white;stroke:black;stroke-width:1"><!-- White background with Black outline -->
+        <rect rx="30" ry="30" y="0.5" x="0.5" height="539" width="359"  />
+      </g>
+    </g>
+  </defs>
+</svg>

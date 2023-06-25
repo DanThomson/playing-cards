@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="2">
+  <defs>
+    <g id="green-background">
+      <rect height='600' width='420' rx='30' ry='30' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
+    </g>
+  </defs>
+</svg>
