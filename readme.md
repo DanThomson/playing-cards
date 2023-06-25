@@ -1,3 +1,6 @@
+Work in progress. 
+Based on a public domain svg with created by inkscape
+
 Width of deck 5100px
 Margin between cards 30px
 Fourteen margins
