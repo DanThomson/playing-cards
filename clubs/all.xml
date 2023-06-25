@@ -1,26 +1,28 @@
 <svg xmlns='http://www.w3.org/2000/svg' version='2' width='5100' height='600'>
   <defs>
     <g id='clubs'    transform='translate(0, 0)'>
+      <g transform='translate(0, -512.36218)'>
+        <g transform='translate(4290, 0)'><use href='/clubs/queen.xml#queen' /></g>
+        <g transform='translate(4680, 0)'><use href='/clubs/king.xml#king' /></g>
+      </g>
+      <g transform='translate(   0, 0)'><use href='/clubs/ace.xml#ace' /></g>
+      <g transform='translate( 390, 0)'><use href='/clubs/two.xml#two' /></g>
+      <g transform='translate( 780, 0)'><use href='/clubs/three.xml#three' /></g>
+      <g transform='translate(1170, 0)'><use href='/clubs/four.xml#four' /></g>
+      <g transform='translate(1560, 0)'><use href='/clubs/five.xml#five' /></g>
+      <g transform='translate(1950, 0)'><use href='/clubs/six.xml#six' /></g>
+      <g transform='translate(2340, 0)'><use href='/clubs/seven.xml#seven' /></g>
+      <g transform='translate(2730, 0)'><use href='/clubs/eight.xml#eight' /></g>
+      <g transform='translate(3120, 0)'><use href='/clubs/nine.xml#nine' /></g>
       <g transform='translate(3510, 0)'><use href='/clubs/ten.xml#ten' /></g>
-      <g transform='translate(3900, 512.3622)'><use href='/clubs/jack.xml#jack' /></g>
-      <g transform='translate(4290, 0)'><use href='/clubs/queen.xml#queen' /></g>
-      <g transform='translate(4680, 0)'><use href='/clubs/king.xml#king' /></g>
+      <g transform='translate(3900, 0)'><use href='/clubs/jack.xml#jack' /></g>
     </g>
   </defs>
 
   <rect height='600' width='5100' rx='30' ry='30' x='0' y='0' style='fill:#55aa55;fill-opacity:1' />
 
-  <g transform='translate(30, -482.36218)'>
+  <g transform='translate(30, 30)'>
     <use href='#clubs' />
   </g>
 
-  <g transform='translate(  30, 30)'><use href='/clubs/ace.xml#ace' /></g>
-  <g transform='translate( 420, 30)'><use href='/clubs/two.xml#two' /></g>
-  <g transform='translate( 810, 30)'><use href='/clubs/three.xml#three' /></g>
-  <g transform='translate(1200, 30)'><use href='/clubs/four.xml#four' /></g>
-  <g transform='translate(1590, 30)'><use href='/clubs/five.xml#five' /></g>
-  <g transform='translate(1980, 30)'><use href='/clubs/six.xml#six' /></g>
-  <g transform='translate(2370, 30)'><use href='/clubs/seven.xml#seven' /></g>
-  <g transform='translate(2760, 30)'><use href='/clubs/eight.xml#eight' /></g>
-  <g transform='translate(3150, 30)'><use href='/clubs/nine.xml#nine' /></g>
 </svg>
